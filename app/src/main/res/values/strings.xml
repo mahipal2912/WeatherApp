@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="know_what_s_coming">Know What\'s Coming</string>
+    <string name="u2103">℃</string>
+    <string name="sunny">sunny</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="_24_02_2024">24/02/2024</string>
+    <string name="sea">sea</string>
+    <string name="_100">100</string>
+    <string name="sunset">Sunset</string>
+    <string name="_10540">10540</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="_10054">10054</string>
+    <string name="conditions">Conditions</string>
+    <string name="rain">Rain</string>
+    <string name="wind">Wind</string>
+    <string name="_2_24">2.24</string>
+    <string name="humidity">Humidity</string>
+    <string name="_70">70</string>
+</resources>
